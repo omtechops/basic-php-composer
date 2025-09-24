@@ -1,5 +1,9 @@
 {
-    "require": {
-        "nesbot/carbon": "2.53.*"
-    }
+  "name": "mycompany/myproject",
+  "description": "An awesome PHP project to solve problem X.",
+  "license": "proprietary",
+  "require": {
+    "php": "^8.2",
+    "some/dependency": "^1.0"
+  }
 }
